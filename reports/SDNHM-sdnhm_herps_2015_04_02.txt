@@ -1,0 +1,307 @@
+Report for Institution Code SDNHM, Resource sdnhm_herps
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 1388
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 156
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-05 ; Times: 11
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-07 ; Times: 7
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-10 ; Times: 12
+	Date: 2015-03-11 ; Times: 8
+	Date: 2015-03-12 ; Times: 5
+	Date: 2015-03-13 ; Times: 5
+	Date: 2015-03-14 ; Times: 4
+	Date: 2015-03-15 ; Times: 14
+	Date: 2015-03-16 ; Times: 13
+	Date: 2015-03-17 ; Times: 12
+	Date: 2015-03-18 ; Times: 7
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 9
+	Date: 2015-03-21 ; Times: 3
+	Date: 2015-03-22 ; Times: 8
+	Date: 2015-03-23 ; Times: 14
+	Date: 2015-03-24 ; Times: 13
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-28 ; Times: 3
+	Date: 2015-03-29 ; Times: 3
+	Date: 2015-03-30 ; Times: 2
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Podocnemis vogli AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:stephensi genus:crotalus" ; Times: 1
+	Query: "country:"mexico" specificepithet:canum genus:gyalopion year >= 1850 year <= 2015" ; Times: 1
+	Query: "stateprovince:"coahuila" country:"Mexico" genus:Hypsiglena year <= 2014" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Trimorphodon tau stateprovince:"tamaulipas" country:"mexico"" ; Times: 1
+	Query: "sirtalis county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "collin county" ; Times: 1
+	Query: "tantilla yaquia" ; Times: 1
+	Query: "country:"mexico" specificepithet:pyromelana genus:lampropeltis year >= 1850 year <= 2014" ; Times: 1
+	Query: "county:"Pima" stateprovince:"Arizona" country:"United States" genus:crotalus" ; Times: 2
+	Query: "crotalus atrox tucson" ; Times: 1
+	Query: "Incilius coccifer" ; Times: 1
+	Query: "stateprovince:"sinaloa" country:"Mexico" genus:Hypsiglena year <= 2014" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 5
+	Query: "country:"mexico" specificepithet:taeniatus genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "conopsis lineata" ; Times: 2
+	Query: "tantilla rubra" ; Times: 1
+	Query: "Enulius flavitorques" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 2
+	Query: "Phyllodactylus unctus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "reptilia oklahoma osage" ; Times: 1
+	Query: "oklahoma kaw" ; Times: 1
+	Query: "Trachemys nebulosa AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "sisyphodemus" ; Times: 1
+	Query: "stateprovince:"sinaloa" country:"mexico" specificepithet:triangulum genus:lampropeltis year >= 1850 year <= 2014" ; Times: 1
+	Query: "lampropeltis mexicana" ; Times: 1
+	Query: "Kern hypsiglena" ; Times: 6
+	Query: "marmorata genus:Clemmys" ; Times: 2
+	Query: "San Francisquito Baja California Sur" ; Times: 1
+	Query: "country:"mexico" specificepithet:punctatus genus:diadophis year <= 2014" ; Times: 1
+	Query: "country:"mexico" specificepithet:occipitalis genus:chionactis year >= 1850 year <= 2014" ; Times: 1
+	Query: "pacoima" ; Times: 1
+	Query: "rana onca" ; Times: 1
+	Query: "stateprovince:"nuevo leon" country:"mexico" specificepithet:flagellum genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "country:"mexico" specificepithet:proximus genus:thamnophis year <= 2014" ; Times: 1
+	Query: "specificepithet:spinifera genus:Apalone (skull OR skeleton)" ; Times: 1
+	Query: "Arizona elegans Occidentalis" ; Times: 2
+	Query: "Hypsiglena kern" ; Times: 3
+	Query: "Diadophis stateprovince:"Arizona"" ; Times: 1
+	Query: "crotalus unicolor" ; Times: 1
+	Query: "country:"mexico" specificepithet:flagellum genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "Kachuga tecta AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "sistrurus miliarius streckeri stateprovince:"arkansas"" ; Times: 1
+	Query: "incilius coccifer" ; Times: 1
+	Query: "salvadora inyo" ; Times: 3
+	Query: "reptile long island new guinea" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "zonata san diego california" ; Times: 1
+	Query: "Coluber constrictor stateprovince:"New York"" ; Times: 2
+	Query: "THAMNOPHIS county:"Riverside" stateprovince:"california"" ; Times: 1
+	Query: "zonata san diego county california" ; Times: 1
+	Query: ""anaxyrus californicus"" ; Times: 1
+	Query: "spea county:"los angeles"" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "thamnophis validus" ; Times: 3
+	Query: "oxybelis aeneus stateprovince:"arizona"" ; Times: 1
+	Query: "county:"Clark" stateprovince:"Nevada" class:reptilia year <= 2015 distance(location,geopoint(37.19681817024091,-116.103515625))<40532" ; Times: 1
+	Query: "stateprovince:"sonora" country:"mexico" specificepithet:mentovarius genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "country:"mexico" specificepithet:mentovarius genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "country:"mexico" specificepithet:canum genus:Gyalopion year >= 1850 year <= 2015" ; Times: 1
+	Query: "chionactis florence arizona" ; Times: 2
+	Query: "stateprovince:"jalisco" country:"mexico" specificepithet:triangulum genus:lampropeltis year >= 1850 year <= 2014" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "stateprovince:"nevada" specificepithet:stephensi genus:crotalus" ; Times: 1
+	Query: "country:"mexico" specificepithet:diplotropis genus:leptophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "tantilla planiceps baja" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Pantherophis emoryi stateprovince:"tamaulipas" country:"mexico"" ; Times: 2
+	Query: "country:"mexico" specificepithet:bilineatus genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "zonata riverside county california" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "lampropeltis pyromelana pima" ; Times: 1
+	Query: "stateprovince:"sonora" country:"mexico" specificepithet:stramineus genus:Chilomeniscus year >= 1850 year <= 2014" ; Times: 1
+	Query: "Coluber constrictor county:Mono" ; Times: 1
+	Query: "Hemidactylus mabouia Cuba" ; Times: 1
+	Query: "Thamnophis eques year >= 1900 year <= 1930" ; Times: 1
+	Query: "spea bombifrons year >= 1800 year <= 1940" ; Times: 1
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 2
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Trimorphodon stateprovince:"Nevada"" ; Times: 1
+	Query: "Peltocephalus AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "coniophanes schmidti" ; Times: 1
+	Query: "country:"mexico" specificepithet:sartorii genus:tropidodipsas year <= 2014" ; Times: 1
+	Query: "Willseyville county:"Tioga" stateprovince:"New York"" ; Times: 1
+	Query: "Clonophis" ; Times: 4
+	Query: "stateprovince:"maryland" genus:virginia" ; Times: 1
+	Query: "Manouria emys AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Salvadora inyo" ; Times: 1
+	Query: "sirtalis county:"Riverside" stateprovince:"California"" ; Times: 1
+	Query: "clonophis kirtlandii" ; Times: 1
+	Query: "MVZ 14384" ; Times: 1
+	Query: "Lampropeltis county:"Imperial" stateprovince:"California"" ; Times: 1
+	Query: "clemmys FMNH" ; Times: 4
+	Query: "Chionactis palarostris Arizona" ; Times: 1
+	Query: "Xantusia gilberti" ; Times: 1
+	Query: "stateprovince:"chiapas" country:"Mexico" specificepithet:quadrivirgatum genus:Adelphicos year <= 2014" ; Times: 1
+	Query: "thamnophis nigronuchalis" ; Times: 1
+	Query: ""phrynosoma cornutum" type:specimen country:"mexico"" ; Times: 1
+	Query: "chionactis baja" ; Times: 2
+	Query: "county:"Pima" stateprovince:"Arizona" country:"United States" specificepithet:cerberus genus:crotalus" ; Times: 1
+	Query: "country:"mexico" specificepithet:emoryi genus:pantherophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "FMNH thamnophis" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 2
+	Query: "Sceloporus clarkii county:"Cochise" stateprovince:"Arizona" (Chiricahua)" ; Times: 1
+	Query: "crotalus jalisco" ; Times: 1
+	Query: "Mesoclemmys nasuta AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "country:"mexico" specificepithet:nigrofasciata genus:leptodeira year <= 2014" ; Times: 2
+	Query: "leptotyphlops albifrons" ; Times: 1
+	Query: "country:"Mexico" specificepithet:hesperia genus:Rhadinaea year <= 2014" ; Times: 1
+	Query: "stateprovince:"Cotopaxi" country:"Ecuador" class:Reptilia AND (NOT KU)" ; Times: 1
+	Query: "country:"mexico" specificepithet:elegans genus:thamnophis year <= 2014" ; Times: 1
+	Query: "Trachemys yaquia AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "COLUBER CONSTRICTOR county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "masticophis anthonyi" ; Times: 1
+	Query: "country:"mexico" specificepithet:fuliginosus genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "Actinemys marmorata stateprovince:"California" mappable:1" ; Times: 1
+	Query: "Bogertophis rosaliae" ; Times: 1
+	Query: "Arizona elegans kern" ; Times: 1
+	Query: "Panamint crotalus" ; Times: 2
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "Salvadora kern" ; Times: 1
+	Query: "county:"Sacramento" stateprovince:"California" country:"United States" genus:lampropeltis class:reptilia mappable:1" ; Times: 1
+	Query: "coleonyx variegatus abbotti" ; Times: 1
+	Query: "Terrapene nelsoni AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Hidalgo County AND squamata distance(location,geopoint(31.930409004471134,-108.9349365234375))<7351" ; Times: 1
+	Query: "UTA A-38143" ; Times: 1
+	Query: "Anniella county:"san bernardino"" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 2
+	Query: "pipiens stateprovince:"California"" ; Times: 3
+	Query: "leptodeira punctata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 298 download events in this period)
+Total number of records downloaded: 10294 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 9191
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 5
+	Date: 2015-03-04 ; Times: 3
+	Date: 2015-03-05 ; Times: 6
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 4
+	Date: 2015-03-13 ; Times: 2
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 7
+	Date: 2015-03-24 ; Times: 5
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Megophrys" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:lateralis genus:Masticophis mappable:1" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: ""Batrachoseps" AND (NOT attenuatus) mappable:1" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "country:"costa rica" specificepithet:limifrons genus:anolis mappable:1" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"california sur" country:"mexico" year >= 1921 year <= 1922" ; Times: 2
+	Query: "tantilla planiceps" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Sceloporus scalaris stateprovince:"Arizona" year >= 1850 year <= 2014" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "county:"Clark" stateprovince:"Nevada" class:reptilia year <= 2015 distance(location,geopoint(37.19681817024091,-116.103515625))<67455" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "crotalus unicolor" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "reptile coahuila" ; Times: 1
+	Query: ""regina septemvittata"" ; Times: 1
+	Query: "Phyllodactylus lanei" ; Times: 1
+	Query: "tantilla hobartsmithi" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Rana clamitans mappable:1" ; Times: 1
+	Query: "class:reptilia year <= 2015 distance(location,geopoint(37.13553416543073,-116.136474609375))<52228" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "ascaphus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Norops" ; Times: 1
+	Query: "Amphisbaena fuliginosa" ; Times: 1
+	Query: "class:amphibia year <= 2015 distance(location,geopoint(37.13553416543073,-116.136474609375))<52228" ; Times: 2
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "riobambae" ; Times: 2
+	Query: "Conophis vittatus" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "acrochordus" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "candoia" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "paroedura" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1164
+Total number of records retrieved from searches: 9936
+Number of download events that retrieved data from the resource: 196
+Total number of records downloaded: 71555
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1488
+Total number of records retrieved from searches: 13636
+Number of download events that retrieved data from the resource: 521
+Total number of records downloaded: 209627
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
