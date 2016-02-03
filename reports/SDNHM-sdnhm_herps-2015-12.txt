@@ -1,0 +1,288 @@
+Report for Institution Code SDNHM, Resource sdnhm_herps
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 1735
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Turkey ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 10
+	Country: Panama ; Times: 4
+	Country: United States ; Times: 112
+	Country: Switzerland ; Times: 5
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 15
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 10
+	Date: 2015-12-09 ; Times: 7
+	Date: 2015-12-08 ; Times: 3
+	Date: 2015-12-03 ; Times: 8
+	Date: 2015-12-02 ; Times: 6
+	Date: 2015-12-01 ; Times: 10
+	Date: 2015-12-07 ; Times: 10
+	Date: 2015-12-06 ; Times: 3
+	Date: 2015-12-05 ; Times: 3
+	Date: 2015-12-04 ; Times: 3
+	Date: 2015-12-21 ; Times: 6
+	Date: 2015-12-20 ; Times: 12
+	Date: 2015-12-23 ; Times: 12
+	Date: 2015-12-22 ; Times: 9
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-27 ; Times: 10
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-14 ; Times: 14
+	Date: 2015-12-15 ; Times: 4
+	Date: 2015-12-16 ; Times: 4
+	Date: 2015-12-31 ; Times: 4
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 6
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-18 ; Times: 10
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pantherophis bairdi" ; Times: 1
+	Query: "Sauromalus varius" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;Kentucky&#34; (Boone OR Kenton OR Campbell OR Gallatin OR Pentleton OR Grant) AND (NOT bislineata NOT cirrigera NOT fuscus NOT cinereus NOT ambystoma NOT desmognathus NOT kentucki NOT glutinosus)" ; Times: 1
+	Query: "Phrynosoma platyrhinos Pima" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "12522" ; Times: 2
+	Query: "laticauda laticaudata" ; Times: 1
+	Query: "Aspidoscelis neomexicanus" ; Times: 1
+	Query: "(enulius flavitorques and Panama)" ; Times: 2
+	Query: "Crotaphytus nebrius" ; Times: 1
+	Query: "phyllorhynchus browni arizona" ; Times: 4
+	Query: "Microlophus duncanensis" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "micrurus browni" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "Enulius flavitorques" ; Times: 1
+	Query: "Crotalus type:specimen institutioncode:SDNHM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Platte&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Crotalus pricei and Arizona" ; Times: 4
+	Query: "Kinosternon sonoriense" ; Times: 4
+	Query: "Epicrates subflavus" ; Times: 1
+	Query: "class:Reptilia county:&#34;sheridan&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "lampropeltis mexicana" ; Times: 1
+	Query: "Cordylus tropidosternum" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;Kentucky&#34; (Boone OR Kenton OR Campbell OR Gallatin OR Pentleton OR Grant) AND (NOT bislineata NOT cirrigera NOT fuscus NOT cinereus NOT ambystoma NOT plethodon)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Leavenworth&#34; stateprovince:&#34;Kansas&#34; (Fort Leavenworth)" ; Times: 1
+	Query: "Crotalus klauber type:specimen institutioncode:SDNHM" ; Times: 1
+	Query: "Abronia mixteca" ; Times: 1
+	Query: "order:Squamata locality:Palenque stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "Lepidodactylus manni" ; Times: 1
+	Query: "Sistrurus catenatus catenatus pennsylvania" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "Grayia ornata" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "plestiodon gilberti nevada county" ; Times: 1
+	Query: "genus:Pelamis stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Gonyosoma" ; Times: 1
+	Query: "anolis barbouri" ; Times: 1
+	Query: "Coluber British Columbia" ; Times: 2
+	Query: "specificepithet:switaki genus:Coleonyx" ; Times: 1
+	Query: "salvadora mexicana" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 2
+	Query: "masticophis schotti" ; Times: 1
+	Query: "witch" ; Times: 16
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "crotalus simus oaxaca" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 2
+	Query: "Pantherophis alleghaniensis" ; Times: 1
+	Query: "specificepithet:mavortium genus:Ambystoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "Pedioplanis undata" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "genus:Thamnodynastes" ; Times: 1
+	Query: "crotalus cerastes utah" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;Kentucky&#34; (Boone OR Kenton OR Campbell OR Gallatin OR Pentleton OR Grant) AND (NOT bislineata NOT cirrigera NOT fuscus NOT cinereus NOT ambystoma NOT plethodon NOT ochrophaeus)" ; Times: 1
+	Query: "Sceloporus lineatulus" ; Times: 1
+	Query: "pLESTIODON SKILTONIANUS NEVADA" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Masticophis aurigulus" ; Times: 1
+	Query: "gyalopion" ; Times: 1
+	Query: "genus:Pelamis stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Ambystoma distance(location,geopoint(41.508577297439324,-89.47265625))&lt;271088" ; Times: 1
+	Query: "Dicamptodon county:&#34;Santa Cruz&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:areolata" ; Times: 1
+	Query: "thamnophis gigas" ; Times: 1
+	Query: "phyllodactylus country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "genus:Crotalus institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "Sceloporus cautus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Polk&#34; stateprovince:&#34;Iowa&#34; mappable:1" ; Times: 1
+	Query: "chrysopelea" ; Times: 2
+	Query: "Uromastyx benti" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "mvz 13860" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "Gallotia" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 8
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "SDNHM 10338" ; Times: 1
+	Query: "crotalus veracruz" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Geagras redimitus" ; Times: 1
+	Query: "Zamenis situla" ; Times: 1
+	Query: "genus:Pelamis stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "Orthriophis moellendorffi" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 8
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "Typhlops punctatus" ; Times: 1
+	Query: "crotalus durissus colombia" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 4
+	Query: "Micrurus browni (Mexico Guerrero)" ; Times: 1
+	Query: "genus:Coleonyx county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Sceloporus ochoterenae" ; Times: 1
+	Query: "Emoia trossula" ; Times: 7
+	Query: "phyllodactylus davisi" ; Times: 1
+	Query: "enulius flavitorques" ; Times: 2
+	Query: "Ambystoma county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "73952" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 889 download events in this period)
+Total number of records downloaded: 12337
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 80
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-09 ; Times: 3
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 9
+	Date: 2015-12-07 ; Times: 8
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-04 ; Times: 3
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-20 ; Times: 4
+	Date: 2015-12-16 ; Times: 4
+	Date: 2015-12-17 ; Times: 23
+	Date: 2015-12-10 ; Times: 7
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 17
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Petrosaurus thalassinus" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "Pantherophis bairdi" ; Times: 1
+	Query: "Cyclura nubila" ; Times: 1
+	Query: "Sceloporus zosteromus" ; Times: 1
+	Query: "herps of karachi" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Pseudacris cadaverina" ; Times: 1
+	Query: "Sceloporus squamosus" ; Times: 1
+	Query: "Lialis jicari" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus class:Reptilia mappable:1" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "Geagras redimitus" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "class:Reptilia county:&#34;tooele&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Grayia ornata" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Leptodeira frenata" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "plestiodon gilberti nevada county" ; Times: 1
+	Query: "chamaeleo jacksonii" ; Times: 2
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Gymnophthalmus underwoodi" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Microlophus albemarlensis" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Microlophus peruvianus" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Trimorphodon biscutatus Nevada" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Sceloporus serrifer" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "crotalus durissus colombia" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Anaxyrus californicus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Cordylus polyzonus" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "Leptodeira punctata" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Sceloporus cautus" ; Times: 1
+	Query: "Pantherophis alleghaniensis" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "distance(location,geopoint(32.32118167963493,-114.78515625))&lt;30358" ; Times: 1
+	Query: "Pedioplanis undata" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "order:Squamata country:&#34;Venezuela&#34; mappable:1" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Cordylus tropidosternum" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 2
+	Query: "scaphiopus" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "Sceloporus grandaevus" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 1
+
+
+End of report.
