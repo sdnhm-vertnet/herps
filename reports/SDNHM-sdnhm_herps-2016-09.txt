@@ -1,0 +1,187 @@
+Report for Institution Code SDNHM, Resource sdnhm_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 1950
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 87
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 7
+	Date: 2016-09-12 ; Times: 8
+	Date: 2016-09-11 ; Times: 9
+	Date: 2016-09-10 ; Times: 5
+	Date: 2016-09-08 ; Times: 15
+	Date: 2016-09-09 ; Times: 16
+	Date: 2016-09-14 ; Times: 11
+	Date: 2016-09-04 ; Times: 6
+	Date: 2016-09-05 ; Times: 9
+	Date: 2016-09-06 ; Times: 6
+	Date: 2016-09-07 ; Times: 13
+	Date: 2016-09-01 ; Times: 10
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 3
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Pantherophis vulpinus specificepithet:vulpinus genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 2
+	Query: "Leptodeira splendida" ; Times: 1
+	Query: "nelsoni terrapene" ; Times: 2
+	Query: "Norops nebulosus 1" ; Times: 1
+	Query: "Rana catesbeiana  1" ; Times: 2
+	Query: "specificepithet:lecontei genus:Rhinocheilus county:&#34;Fresno&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "spea arizona pima" ; Times: 3
+	Query: "Pantherophis spiloides specificepithet:spiloides genus:Pantherophis mappable:1" ; Times: 1
+	Query: "basiliscus plumifrons" ; Times: 2
+	Query: "specificepithet:draytonii genus:Rana county:&#34;Santa Clara&#34;" ; Times: 1
+	Query: "Norops sericeus 1" ; Times: 1
+	Query: "Thamnophis hammondii" ; Times: 2
+	Query: "specificepithet:acutus genus:Deinagkistrodon" ; Times: 1
+	Query: "anolis bimaculatus" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 4
+	Query: "crotalus lepidus" ; Times: 3
+	Query: "Aspidoscelis septemvittata" ; Times: 1
+	Query: "terrapene ornata arizona 15882" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "maricopa county mitchellii" ; Times: 1
+	Query: "terrapene ornata arizona" ; Times: 1
+	Query: "class:reptilia locality:tula stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Rodent is" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "Sceloporus parvus" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1974 year &lt;= 1975" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 4
+	Query: "isthmus of panama" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus county:&#34;Kern&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "70064" ; Times: 1
+	Query: "Aspidoscelis labialis" ; Times: 2
+	Query: "amphibia locality:Hurkey county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Norops lemurinus 1" ; Times: 1
+	Query: "county:&#34;San Diego&#34; stateprovince:&#34;California&#34; recordedby:Pauly" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1940 year &lt;= 1945" ; Times: 1
+	Query: "Remora remora" ; Times: 5
+	Query: "aspidoscelis deppii" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 7
+	Query: "Oxybelis arizona" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "UTA 51668" ; Times: 1
+	Query: "Crotalus oreganus (Klauber)" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "Griffith Park Zoo" ; Times: 1
+	Query: "specificepithet:coloratus genus:echis" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "locality:Rio de Oro country:&#34;argentina&#34;" ; Times: 1
+	Query: "Phrynosoma county:&#34;Santa cruz&#34;" ; Times: 2
+	Query: "Eleutherodactylus coqui year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 2
+	Query: "Rana catesbeiana 1" ; Times: 1
+	Query: "Actinemys" ; Times: 2
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "Gambelia county:&#34;Riverside&#34;" ; Times: 4
+	Query: "Actinemys marmorata" ; Times: 4
+	Query: "69273" ; Times: 1
+	Query: "Cerrophidion godmani" ; Times: 1
+	Query: "Phyllorhynchus stateprovince:&#34;Arizona&#34; (Pinal)" ; Times: 1
+	Query: "Sceloporus cowlesi new mexico" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "tau sonora" ; Times: 1
+	Query: "anaxyrus californicus" ; Times: 2
+	Query: "Norops cupreus 1" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Coleonyx reticulatus" ; Times: 2
+	Query: "spea multiplicata new mexico" ; Times: 2
+	Query: "tantilla yaquia" ; Times: 1
+	Query: "norops lemurinus" ; Times: 1
+	Query: "genus:trimeresurus institutioncode:SDNHM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 811 download events in this period)
+Total number of records downloaded: 1248
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 16
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 5
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-09 ; Times: 11
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-05 ; Times: 4
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis tropidonotus" ; Times: 1
+	Query: "&#34;Lepidophyma flavimaculatum&#34;" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "uropeltis" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Rhinophis" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:viridescens genus:Notophthalmus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "pseudoeurycea bellii" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "Rhyacotriton variegatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "uropeltidae" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Phyllorhynchus stateprovince:&#34;Arizona&#34; (Pinal)" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "fort bliss reptilia" ; Times: 1
+	Query: "Aspidoscelis septemvittata" ; Times: 1
+	Query: "norops lemurinus" ; Times: 1
+
+
+End of report.
