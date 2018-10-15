@@ -1,0 +1,284 @@
+Report for Institution Code SDNHM, Resource sdnhm_herps
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 407
+Number of records retrieved in searches: 743
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: United States ; Times: 388
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 6
+	Date: 2017-11-29 ; Times: 362
+	Date: 2017-11-26 ; Times: 9
+	Date: 2017-11-27 ; Times: 6
+	Date: 2017-11-25 ; Times: 4
+	Date: 2017-11-30 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus (pennsylvania) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus catalognumber:1994" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1993" ; Times: 1
+	Query: "genus:Crotalus catalognumber:1142" ; Times: 2
+	Query: "Lampropeltis getula jersey" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33896" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33895" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34523" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34522" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34521" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34520" ; Times: 2
+	Query: "63090" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34525" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34524" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32125" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32124" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32127" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32126" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32121" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32120" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32123" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32122" ; Times: 2
+	Query: "genus:Crotalus catalognumber:31759" ; Times: 2
+	Query: "genus:Crotalus catalognumber:31758" ; Times: 2
+	Query: "genus:Crotalus catalognumber:41250" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33805" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33804" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33807" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33806" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1427" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2433" ; Times: 2
+	Query: "San Diego 23641" ; Times: 1
+	Query: "genus:Crotalus catalognumber:35499" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "genus:Crotalus catalognumber:23641" ; Times: 2
+	Query: "genus:Crotalus catalognumber:22249" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25959" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2987" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2986" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35411" ; Times: 2
+	Query: "genus:Crotalus catalognumber:4394" ; Times: 2
+	Query: "genus:Crotalus catalognumber:4395" ; Times: 2
+	Query: "genus:Crotalus catalognumber:4392" ; Times: 2
+	Query: "genus:Crotalus catalognumber:4393" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35656" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35564" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35560" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35561" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35562" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35563" ; Times: 3
+	Query: "genus:Crotalus catalognumber:12234" ; Times: 2
+	Query: "genus:Crotalus catalognumber:12233" ; Times: 2
+	Query: "masticophis schotti mexico" ; Times: 1
+	Query: "genus:Crotalus catalognumber:31760" ; Times: 2
+	Query: "genus:Crotalus catalognumber:39594" ; Times: 2
+	Query: "genus:crotalus county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus (ohio) institutioncode:SDNHM" ; Times: 1
+	Query: "Sistrurus miliarius barbouri stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:32110" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32111" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32112" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32113" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32114" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32115" ; Times: 2
+	Query: "genus:Crotalus catalognumber:21567" ; Times: 2
+	Query: "genus:Crotalus catalognumber:21566" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32118" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32119" ; Times: 2
+	Query: "genus:Crotalus catalognumber:5886" ; Times: 2
+	Query: "genus:Crotalus catalognumber:20993" ; Times: 2
+	Query: "genus:Zamenis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:1975" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1974" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1971" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1970" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1973" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1972" ; Times: 2
+	Query: "genus:Crotalus catalognumber:40357" ; Times: 2
+	Query: "genus:Crotalus catalognumber:40356" ; Times: 2
+	Query: "genus:Crotalus catalognumber:40355" ; Times: 2
+	Query: "genus:Crotalus catalognumber:42383" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34661" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34662" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34663" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34664" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34665" ; Times: 3
+	Query: "genus:Crotalus catalognumber:34075" ; Times: 2
+	Query: "genus:Crotalus catalognumber:28458" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34076" ; Times: 2
+	Query: "sphaerodactylus richardsoni" ; Times: 1
+	Query: "genus:Crotalus catalognumber:31812" ; Times: 2
+	Query: "genus:Crotalus catalognumber:31813" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25937" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35496" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32107" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32106" ; Times: 3
+	Query: "genus:Crotalus catalognumber:32105" ; Times: 2
+	Query: "genus:Crotalus catalognumber:28828" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25363" ; Times: 2
+	Query: "genus:Crotalus catalognumber:20668" ; Times: 2
+	Query: "genus:Crotalus catalognumber:39588" ; Times: 3
+	Query: "genus:Crotalus catalognumber:32109" ; Times: 2
+	Query: "genus:Crotalus catalognumber:36340" ; Times: 2
+	Query: "genus:Crotalus catalognumber:37705" ; Times: 2
+	Query: "genus:Crotalus catalognumber:11421" ; Times: 2
+	Query: "specificepithet:taeniurus genus:Orthriophis hastissue:1" ; Times: 1
+	Query: "UTA R-6231" ; Times: 2
+	Query: "elgaria paucicarinata" ; Times: 1
+	Query: "genus:Crotalus catalognumber:1968" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1969" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33852" ; Times: 2
+	Query: "genus:Crotalus catalognumber:40328" ; Times: 2
+	Query: "masticophis schotti" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33856" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2687" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34671" ; Times: 2
+	Query: "genus:Crotalus catalognumber:26717" ; Times: 2
+	Query: "35377" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "genus:Crotalus catalognumber:36388" ; Times: 3
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:25362" ; Times: 2
+	Query: "genus:Crotalus catalognumber:193" ; Times: 1
+	Query: "genus:Crotalus catalognumber:25396" ; Times: 2
+	Query: "ruber stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:57606" ; Times: 3
+	Query: "genus:Crotalus catalognumber:35102" ; Times: 2
+	Query: "genus:crotalus catalognumber:1555" ; Times: 3
+	Query: "genus:Crotalus catalognumber:35101" ; Times: 2
+	Query: "vntype:specimen genus:Lampropeltis year &gt;= 1970 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 2
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Crotalus catalognumber:40359" ; Times: 2
+	Query: "getula stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:25397" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25395" ; Times: 2
+	Query: "specificepithet:boylii genus:rana county:&#34;mendocino&#34;" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33849" ; Times: 2
+	Query: "genus:Crotalus catalognumber:31885" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25364" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25398" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33957" ; Times: 2
+	Query: "crotalus triseriatus" ; Times: 1
+	Query: "genus:Crotalus catalognumber:35596" ; Times: 2
+	Query: "Gallotia galloti" ; Times: 2
+	Query: "genus:Crotalus catalognumber:37322" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33956" ; Times: 2
+	Query: "crotalus aquilus" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33955" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32108" ; Times: 2
+	Query: "genus:Crotalus catalognumber:525" ; Times: 1
+	Query: "genus:Crotalus catalognumber:34196" ; Times: 2
+	Query: "vntype:specimen genus:Lachesis hastissue:1" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2527" ; Times: 2
+	Query: "genus:Crotalus catalognumber:3718" ; Times: 2
+	Query: "Eurycea longicauda stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "genus:Crotalus catalognumber:17141" ; Times: 1
+	Query: "sdnhm 2364" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33876" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34519" ; Times: 2
+	Query: "masticophis taeniatus mexico" ; Times: 1
+	Query: "genus:Crotalus catalognumber:39720" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33873" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34105" ; Times: 2
+	Query: "genus:Crotalus catalognumber:6372" ; Times: 3
+	Query: "genus:Crotalus catalognumber:2432" ; Times: 2
+	Query: "genus:Crotalus catalognumber:27369" ; Times: 2
+	Query: "genus:Crotalus catalognumber:36333" ; Times: 2
+	Query: "47996" ; Times: 1
+	Query: "genus:Crotalus catalognumber:9674" ; Times: 2
+	Query: "genus:Crotalus catalognumber:29015" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32116" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32117" ; Times: 2
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus (new york) institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:longissimus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:39980" ; Times: 2
+	Query: "genus:aristelliger hastissue:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:20119" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33851" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33850" ; Times: 2
+	Query: "genus:Crotalus catalognumber:12561" ; Times: 2
+	Query: "genus:Anguis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:34033" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34032" ; Times: 2
+	Query: "snake stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:34034" ; Times: 2
+	Query: "genus:Crotalus catalognumber:40329" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2690" ; Times: 2
+	Query: "genus:Crotalus catalognumber:28667" ; Times: 2
+	Query: "Shinisaurus" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1556" ; Times: 2
+	Query: "genus:Crotalus catalognumber:1555" ; Times: 4
+	Query: "SDNHM 51741" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2686" ; Times: 2
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "specificepithet:longissimus genus:Zamenis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Lanthanotus" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33817" ; Times: 2
+	Query: "genus:Crotalus catalognumber:35497" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32734" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32735" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32736" ; Times: 2
+	Query: "genus:Crotalus catalognumber:32737" ; Times: 1
+	Query: "genus:Crotalus catalognumber:9553" ; Times: 2
+	Query: "genus:Crotalus catalognumber:9552" ; Times: 2
+	Query: "genus:Crotalus catalognumber:40360" ; Times: 2
+	Query: "testudines baja california" ; Times: 1
+	Query: "genus:Crotalus catalognumber:40358" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33959" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33958" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33818" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33819" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33816" ; Times: 2
+	Query: "genus:Crotalus catalognumber:17177" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33815" ; Times: 2
+	Query: "genus:Crotalus catalognumber:6067" ; Times: 2
+	Query: "genus:Crotalus catalognumber:20420" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1101 download events in this period)
+Total number of records downloaded: 14293
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 2
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 2
+	Date: 2017-11-25 ; Times: 4
+	Date: 2017-11-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "elgaria paucicarinata" ; Times: 3
+	Query: "India Amphibia" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "class:reptilia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:aristelliger hastissue:1" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
