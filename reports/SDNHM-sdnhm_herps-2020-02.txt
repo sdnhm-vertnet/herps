@@ -1,0 +1,721 @@
+Report for Institution Code SDNHM, Resource sdnhm_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1236
+Number of records retrieved in searches: 16677
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 15
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 1133
+	Country: Vietnam ; Times: 1
+	Country: French Guiana ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Mexico ; Times: 60
+	Country: South Africa ; Times: 1
+	Country: Dominica ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 45
+	Date: 2020-02-23 ; Times: 6
+	Date: 2020-02-02 ; Times: 246
+	Date: 2020-02-03 ; Times: 191
+	Date: 2020-02-26 ; Times: 14
+	Date: 2020-02-01 ; Times: 62
+	Date: 2020-02-20 ; Times: 65
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-22 ; Times: 4
+	Date: 2020-02-05 ; Times: 47
+	Date: 2020-02-08 ; Times: 16
+	Date: 2020-02-09 ; Times: 90
+	Date: 2020-02-28 ; Times: 10
+	Date: 2020-02-29 ; Times: 3
+	Date: 2020-02-11 ; Times: 215
+	Date: 2020-02-10 ; Times: 14
+	Date: 2020-02-13 ; Times: 24
+	Date: 2020-02-12 ; Times: 20
+	Date: 2020-02-15 ; Times: 3
+	Date: 2020-02-14 ; Times: 29
+	Date: 2020-02-17 ; Times: 7
+	Date: 2020-02-16 ; Times: 7
+	Date: 2020-02-19 ; Times: 18
+	Date: 2020-02-18 ; Times: 21
+	Date: 2020-02-24 ; Times: 12
+	Date: 2020-02-25 ; Times: 15
+	Date: 2020-02-27 ; Times: 22
+	Date: 2020-02-06 ; Times: 12
+	Date: 2020-02-07 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia stateprovince:&#34;california&#34; year &lt;= 1920 institutioncode:SDNHM" ; Times: 1
+	Query: "Uta nolascensis" ; Times: 1
+	Query: "typhlops dominicanus" ; Times: 1
+	Query: "Rana draytonii 1287" ; Times: 5
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 4
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes" ; Times: 1
+	Query: "Rana draytonii 135" ; Times: 3
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "specificepithet:woodhousii county:&#34;imperial&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:pallida genus:naja" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Rana maculata" ; Times: 2
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "Rana draytonii 1609" ; Times: 5
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "Rana draytonii 44" ; Times: 3
+	Query: "Sistrurus miliarius" ; Times: 2
+	Query: "Abronia mixteca" ; Times: 1
+	Query: "specificepithet:yavapaiensis stateprovince:&#34;Arizona&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "Rana draytonii 45" ; Times: 3
+	Query: "calumma parsonii" ; Times: 1
+	Query: "Rana draytonii 140" ; Times: 3
+	Query: "Rana draytonii 145" ; Times: 3
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "Rana draytonii 149" ; Times: 3
+	Query: "51609" ; Times: 1
+	Query: "FMNH Plethodon" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 9
+	Query: "genus:Crotalus oreganus year &gt;= 2007 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates county:&#34;Tuolumne&#34;" ; Times: 2
+	Query: "specificepithet:nicholsi genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "H 54414" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "Uta tumidarostra" ; Times: 1
+	Query: "specificepithet:bugastrolepis genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Rana county:&#34;Mariposa&#34;" ; Times: 2
+	Query: "uma inornata stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Rana draytonii 68" ; Times: 3
+	Query: "Rana draytonii 101" ; Times: 3
+	Query: "specificepithet:vittatus genus:Gonatodes institutioncode:SDNHM" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;california&#34; year &lt;= 1920 institutioncode:SDNHM" ; Times: 1
+	Query: "genus:leiocephalus locality:naval base stateprovince:&#34;guantanamo&#34; country:&#34;cuba&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Crotalus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Tropidodipsas country:&#34;Mexico&#34;" ; Times: 1
+	Query: "californicus genus:Anaxyrus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Aneides flavipunctatus niger year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "Xenosaurus newmanorum" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "specificepithet:sputator genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "Extenuatum" ; Times: 1
+	Query: "Rana draytonii 14" ; Times: 3
+	Query: "Rana draytonii 249" ; Times: 3
+	Query: "Siren intermedia" ; Times: 1
+	Query: "specificepithet:armstrongi genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 95" ; Times: 3
+	Query: "Rana draytonii 94" ; Times: 3
+	Query: "Rana draytonii 93" ; Times: 3
+	Query: "Rana draytonii 195" ; Times: 3
+	Query: "boreas genus:Anaxyrus stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 3
+	Query: "Cryptoblepharus BPBM" ; Times: 1
+	Query: "Rana draytonii 1957" ; Times: 5
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 1950" ; Times: 5
+	Query: "Rana draytonii 1952" ; Times: 5
+	Query: "Rana draytonii 966" ; Times: 3
+	Query: "Rana draytonii 1958" ; Times: 5
+	Query: "specificepithet:sputator genus:sphaerodactylus" ; Times: 2
+	Query: "Crotalus totonacus" ; Times: 1
+	Query: "Banning county:&#34;Riverside&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "organ pipe class:Reptilia county:&#34;pima&#34; year &gt;= 1980" ; Times: 2
+	Query: "39229" ; Times: 1
+	Query: "Rana draytonii 402" ; Times: 3
+	Query: "Actinemys marmorata" ; Times: 2
+	Query: "Rana draytonii 133" ; Times: 3
+	Query: "thamnophis gigas" ; Times: 1
+	Query: "philodendron" ; Times: 1
+	Query: "Chilomeniscus stramineus" ; Times: 1
+	Query: "Rana draytonii 1495" ; Times: 5
+	Query: "70808" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "holotype specificepithet:decurtatus genus:Phyllorhynchus institutioncode:SDNHM hastypestatus:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "Rana draytonii 2006" ; Times: 7
+	Query: "Rana draytonii 2007" ; Times: 7
+	Query: "Rana draytonii 2004" ; Times: 7
+	Query: "Rana draytonii 2005" ; Times: 7
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 106" ; Times: 3
+	Query: "Rana draytonii 107" ; Times: 3
+	Query: "Rana draytonii 104" ; Times: 3
+	Query: "specificepithet:roosevelti genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 2008" ; Times: 7
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "uma inornata stateprovince:&#34;california&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus institutioncode:SDNHM hastypestatus:1" ; Times: 2
+	Query: "coleonyx switaki" ; Times: 3
+	Query: "Uta encantadae" ; Times: 1
+	Query: "Rana draytonii 1938" ; Times: 5
+	Query: "organ pipe class:amphibia county:&#34;pima&#34;" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "Rana draytonii 28" ; Times: 3
+	Query: "Rana draytonii 29" ; Times: 3
+	Query: "Rana draytonii 24" ; Times: 3
+	Query: "Rana draytonii 25" ; Times: 3
+	Query: "Rana draytonii 26" ; Times: 3
+	Query: "Rana draytonii 27" ; Times: 3
+	Query: "Rana draytonii 20" ; Times: 3
+	Query: "Rana draytonii 21" ; Times: 3
+	Query: "Rana draytonii 22" ; Times: 3
+	Query: "order:caudata county:&#34;Inyo&#34;" ; Times: 2
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "Rana draytonii 23" ; Times: 3
+	Query: "Rana draytonii 205" ; Times: 3
+	Query: "Rana draytonii 58" ; Times: 3
+	Query: "sistrurus stateprovince:&#34;pennsylvania&#34;" ; Times: 5
+	Query: "Rana draytonii 51" ; Times: 3
+	Query: "Rana draytonii 50" ; Times: 3
+	Query: "Rana draytonii 53" ; Times: 3
+	Query: "Rana draytonii 52" ; Times: 3
+	Query: "Rana draytonii 55" ; Times: 3
+	Query: "Rana draytonii 54" ; Times: 3
+	Query: "Rana draytonii 57" ; Times: 3
+	Query: "Rana draytonii 56" ; Times: 3
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Hydrophis platurus" ; Times: 3
+	Query: "Phyllorhynchus decurtatus vntype:specimen year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "genus:Chelonia country:&#34;United states&#34;" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "2-6775" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Eretmochelys" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "Uta palmeri" ; Times: 1
+	Query: "cROTALUS SIMUS" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:3105 institutioncode:SDNHM" ; Times: 2
+	Query: "Rhinocheilus lecontei hidalgo" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Anaxyrus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1980" ; Times: 2
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 384" ; Times: 3
+	Query: "genus:Crotalus oreganus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:europaea genus:Euleptes institutioncode:SDNHM" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "Rana draytonii 388" ; Times: 3
+	Query: "specificepithet:unctus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 891" ; Times: 3
+	Query: "20991" ; Times: 1
+	Query: "gyalopion quadrangulare" ; Times: 4
+	Query: "Rana draytonii 59" ; Times: 3
+	Query: "Lichanura trivirgata gracia" ; Times: 1
+	Query: "crotalus molossus" ; Times: 2
+	Query: "Emydoidea" ; Times: 1
+	Query: "Lichanura gracia" ; Times: 1
+	Query: "naval base stateprovince:&#34;guantanamo&#34; country:&#34;cuba&#34;" ; Times: 2
+	Query: "Xantusia gracilis" ; Times: 1
+	Query: "sistrurus stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "specificepithet:ruber genus:Crotalus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 10
+	Query: "Rana draytonii 15" ; Times: 3
+	Query: "aspidoscelis tigris apache arizona" ; Times: 1
+	Query: "Rana draytonii 17" ; Times: 3
+	Query: "Rana draytonii 16" ; Times: 3
+	Query: "Rana draytonii 11" ; Times: 3
+	Query: "Rana draytonii 10" ; Times: 3
+	Query: "Rana draytonii 13" ; Times: 3
+	Query: "Rana draytonii 12" ; Times: 6
+	Query: "Rana draytonii 19" ; Times: 3
+	Query: "Rana draytonii 18" ; Times: 3
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Rana draytonii 34" ; Times: 3
+	Query: "genus:rena order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "specificepithet:americana genus:Tarentola institutioncode:SDNHM" ; Times: 1
+	Query: "crotalus willardi" ; Times: 4
+	Query: "streckeri" ; Times: 1
+	Query: "specificepithet:barringtonensis genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:scripta stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "vntype:specimen specificepithet:samarensis genus:naja" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Chiapas&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 4
+	Query: "Banning institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 274" ; Times: 3
+	Query: "Rana draytonii 84" ; Times: 3
+	Query: "Rana draytonii 85" ; Times: 3
+	Query: "Rana draytonii 270" ; Times: 3
+	Query: "Rana draytonii 80" ; Times: 3
+	Query: "Rana draytonii 81" ; Times: 3
+	Query: "Vipera palaestinae" ; Times: 1
+	Query: "boreas genus:Anaxyrus stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "Rana draytonii 1160" ; Times: 5
+	Query: "Rana draytonii 188" ; Times: 3
+	Query: "Rana draytonii 189" ; Times: 3
+	Query: "Manolepis putnami" ; Times: 32
+	Query: "Rana draytonii 1948" ; Times: 5
+	Query: "Rana draytonii 1942" ; Times: 5
+	Query: "actinemys pallida" ; Times: 2
+	Query: "Rana draytonii 1940" ; Times: 5
+	Query: "Rana draytonii 1945" ; Times: 5
+	Query: "Sceloporus bulleri." ; Times: 1
+	Query: "crotalus pricei" ; Times: 6
+	Query: "Rana draytonii 1897" ; Times: 5
+	Query: "catalognumber:832" ; Times: 1
+	Query: "genus:rana county:&#34;Mariposa&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;California&#34;" ; Times: 9
+	Query: "Rana draytonii 1899" ; Times: 5
+	Query: "Rana draytonii 570" ; Times: 3
+	Query: "specificepithet:pacificus genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "specificepithet:palarostris genus:chionactis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "Rana draytonii 1873" ; Times: 5
+	Query: "Gyalopion quadrangulare" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Rana draytonii 970" ; Times: 3
+	Query: "Rana draytonii 119" ; Times: 3
+	Query: "Rana draytonii 688" ; Times: 3
+	Query: "Rana draytonii 115" ; Times: 3
+	Query: "Rana draytonii 116" ; Times: 3
+	Query: "genus:thamnophis stateprovince:&#34;michoacan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:diadophis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Rana draytonii 1486" ; Times: 5
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "genus:crotalus order:squamata stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Rana draytonii 785" ; Times: 3
+	Query: "specificepithet:californiae genus:lampropeltis" ; Times: 2
+	Query: "Rana draytonii 9" ; Times: 3
+	Query: "Rana draytonii 1900" ; Times: 5
+	Query: "Rana draytonii 606" ; Times: 3
+	Query: "Rana draytonii 609" ; Times: 3
+	Query: "Rana draytonii 4" ; Times: 3
+	Query: "Rana draytonii 7" ; Times: 3
+	Query: "Rana draytonii 1901" ; Times: 5
+	Query: "Rana draytonii 1" ; Times: 2
+	Query: "Rana draytonii 0" ; Times: 2
+	Query: "Rana draytonii 3" ; Times: 3
+	Query: "Rana draytonii 2" ; Times: 3
+	Query: "pantherophis guttatus" ; Times: 1
+	Query: "Rana draytonii 238" ; Times: 3
+	Query: "Rana draytonii 48" ; Times: 3
+	Query: "Rana draytonii 49" ; Times: 3
+	Query: "Rana draytonii 42" ; Times: 3
+	Query: "Rana draytonii 43" ; Times: 3
+	Query: "Rana draytonii 40" ; Times: 3
+	Query: "Rana draytonii 233" ; Times: 3
+	Query: "Rana draytonii 46" ; Times: 3
+	Query: "Rana draytonii 47" ; Times: 3
+	Query: "Rana draytonii 236" ; Times: 3
+	Query: "Lithobates yavapaiensis" ; Times: 5
+	Query: "39343" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "specificepithet:partidus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;San Luis Potosi&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 6
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "catalognumber:34291 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Urosaurus nigricaudus" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:SDNHM" ; Times: 1
+	Query: "organ pipe family:Teiidae class:Reptilia county:&#34;pima&#34;" ; Times: 2
+	Query: "crotalus horridus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "Dicamptodon county:&#34;Marin&#34;" ; Times: 3
+	Query: "26637" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "Rana draytonii 306" ; Times: 3
+	Query: "Pituophis ruthveni" ; Times: 1
+	Query: "Aneides flavipunctatus niger" ; Times: 2
+	Query: "specificepithet:nigropunctatus genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "Rana draytonii 1976" ; Times: 7
+	Query: "Rana draytonii 1975" ; Times: 7
+	Query: "Rana draytonii 1974" ; Times: 7
+	Query: "Rana draytonii 1872" ; Times: 5
+	Query: "Rana draytonii 943" ; Times: 3
+	Query: "genus:Trimorphodon stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Rana draytonii 1978" ; Times: 7
+	Query: "bahia de banderas" ; Times: 1
+	Query: "Rana draytonii 944" ; Times: 3
+	Query: "Rana draytonii 945" ; Times: 3
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rana draytonii 786" ; Times: 3
+	Query: "Rana draytonii 787" ; Times: 3
+	Query: "Rana draytonii 788" ; Times: 3
+	Query: "Rana draytonii 789" ; Times: 3
+	Query: "24101" ; Times: 1
+	Query: "Urosaurus lahtelai" ; Times: 1
+	Query: "Rana draytonii 931" ; Times: 3
+	Query: "Rana draytonii 930" ; Times: 3
+	Query: "45612" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 6
+	Query: "specificepithet:woodhousii locality:harper county:&#34;imperial&#34;" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "Ambystoma Californiense" ; Times: 1
+	Query: "Rana draytonii 164" ; Times: 3
+	Query: "Rana draytonii 161" ; Times: 3
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 168" ; Times: 3
+	Query: "Salvadora hexalepis virgultea" ; Times: 1
+	Query: "gyalopion canum" ; Times: 6
+	Query: "locality:San Vicente " ; Times: 1
+	Query: "Rana draytonii 217" ; Times: 3
+	Query: "genus:Rana county:&#34;santa barbara&#34;" ; Times: 2
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "Rana draytonii 215" ; Times: 3
+	Query: "cricosaura typica" ; Times: 2
+	Query: "KU 2978" ; Times: 1
+	Query: "genus:Clonophis" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "Ambystoma californiense stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:SDNHM" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "Rana draytonii 267" ; Times: 3
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:vincenti genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 2
+	Query: "Pseudacris sierra" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 6
+	Query: "drymoluber dichrous" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 6
+	Query: "Xantusia wigginsi" ; Times: 1
+	Query: "MSB 40883" ; Times: 2
+	Query: "Rana draytonii 1159" ; Times: 5
+	Query: "Rana draytonii 193" ; Times: 3
+	Query: "specificepithet:nocticolus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 198" ; Times: 3
+	Query: "class:reptilia locality:Clark county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Rana draytonii 1939" ; Times: 5
+	Query: "Anaxyrus canorus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 1937" ; Times: 5
+	Query: "specificepithet:yavapaiensis stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "Rana draytonii 1933" ; Times: 5
+	Query: "Rana draytonii 1932" ; Times: 5
+	Query: "Rana draytonii 1931" ; Times: 5
+	Query: "Rana draytonii 1930" ; Times: 5
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 8
+	Query: "Actinemys pallida" ; Times: 1
+	Query: "mochlus sundevalli" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "Ku 21632" ; Times: 1
+	Query: "Uma Yuma" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "specificepithet:ruber genus:crotalus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Anaxyrus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1980" ; Times: 1
+	Query: "agkistrodon stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "Rana draytonii 120" ; Times: 3
+	Query: "Hualapai Mountains" ; Times: 3
+	Query: "Rana draytonii 124" ; Times: 3
+	Query: "Lichanura gracia arizona" ; Times: 1
+	Query: "specificepithet:goniorhynchus genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 219" ; Times: 3
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 1
+	Query: "specificepithet:basiliscus genus:Crotalus stateprovince:&#34;Colima&#34;" ; Times: 2
+	Query: "Lichanura yuma county" ; Times: 1
+	Query: "specificepithet:cyrtopsis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "Rana draytonii 634" ; Times: 3
+	Query: "specificepithet:elegantulus genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:yavapaiensis stateprovince:&#34;Arizona&#34; year &gt;= 1930 year &lt;= 2020" ; Times: 4
+	Query: "specificepithet:gracilis genus:Xantusia" ; Times: 3
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 228" ; Times: 3
+	Query: "Rana draytonii 224" ; Times: 3
+	Query: "genus:Trimorphodon county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:randi genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Uma rufopunctata" ; Times: 10
+	Query: "specificepithet:davisi genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 1448" ; Times: 5
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;coconino&#34;" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "specificepithet:liocephalus genus:gerrhonotus" ; Times: 1
+	Query: "Aspidoscelis xanthonota" ; Times: 3
+	Query: "specificepithet:palarostris genus:chionactis" ; Times: 1
+	Query: "county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:wirshingi genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "californicus genus:Anaxyrus stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:woodhousii locality:harper well county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:crotalus order:Squamata country:&#34;honduras&#34;" ; Times: 1
+	Query: "Rana draytonii 257" ; Times: 3
+	Query: "specificepithet:tigris family:viperidae" ; Times: 5
+	Query: "genus:heloderma order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Rana draytonii 1961" ; Times: 5
+	Query: "Rana draytonii 1965" ; Times: 5
+	Query: "Rana draytonii 1967" ; Times: 5
+	Query: "Aspidoscelis tigris butte county" ; Times: 1
+	Query: "salvadora grahamiae" ; Times: 5
+	Query: "crotalus cerberus arizona" ; Times: 1
+	Query: "specificepithet:yavapaiensis" ; Times: 1
+	Query: "specificepithet:cognatus genus:Anaxyrus stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Dermochelys" ; Times: 3
+	Query: "heloderma suspectum stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:bahia de banderas" ; Times: 2
+	Query: "Oxybelis aeneus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:gerrhopygus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "genus:Rana locality:Yosemite" ; Times: 3
+	Query: "Lampropeltis pyromelana" ; Times: 3
+	Query: "genus:Geochelone (Galapagos OR Ecuador)" ; Times: 1
+	Query: "Rana draytonii 2014" ; Times: 7
+	Query: "Rana draytonii 2017" ; Times: 7
+	Query: "Rana draytonii 2019" ; Times: 7
+	Query: "Rana draytonii 2018" ; Times: 7
+	Query: "Rana draytonii 177" ; Times: 3
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "genus:charina order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "xantusia gracilis" ; Times: 3
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "californicus genus:Anaxyrus stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Rana draytonii 1487" ; Times: 5
+	Query: "specificepithet:atrox genus:Crotalus order:Squamata stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Rana draytonii 1485" ; Times: 5
+	Query: "Rana draytonii 39" ; Times: 3
+	Query: "Rana draytonii 38" ; Times: 3
+	Query: "12020" ; Times: 1
+	Query: "Uta lowei" ; Times: 1
+	Query: "heloderma horridum" ; Times: 4
+	Query: "Rana draytonii 33" ; Times: 3
+	Query: "Rana draytonii 32" ; Times: 3
+	Query: "Rana draytonii 31" ; Times: 3
+	Query: "Rana draytonii 30" ; Times: 3
+	Query: "Rana draytonii 37" ; Times: 3
+	Query: "Rana draytonii 36" ; Times: 3
+	Query: "Rana draytonii 35" ; Times: 3
+	Query: "Rana draytonii 8" ; Times: 3
+	Query: "specificepithet:ruibali genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "Rana draytonii 5" ; Times: 3
+	Query: "Xantusia gilberti" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 2
+	Query: "A. t. stebbinsi" ; Times: 1
+	Query: "Rana draytonii 214" ; Times: 3
+	Query: "Rana draytonii 6" ; Times: 3
+	Query: "Rana draytonii 212" ; Times: 3
+	Query: "Rana draytonii 357" ; Times: 3
+	Query: "11796" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "uniparens yavapai" ; Times: 1
+	Query: "genus:lampropeltis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:yavapaiensis stateprovince:&#34;Arizona&#34;" ; Times: 16
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 6
+	Query: "specificepithet:liocephalus genus:gerrhonotus country:&#34;mexico&#34;" ; Times: 2
+	Query: "Rana draytonii 1928" ; Times: 5
+	Query: "Rana draytonii 1929" ; Times: 5
+	Query: "specificepithet:savagei genus:Sphaerodactylus institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 1926" ; Times: 5
+	Query: "Rana draytonii 1927" ; Times: 5
+	Query: "institutioncode:sdnhm" ; Times: 2
+	Query: "spea intermontana institutioncode:SDNHM" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Rana draytonii 458" ; Times: 3
+	Query: "Rana draytonii 459" ; Times: 3
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:SDNHM" ; Times: 1
+	Query: "Rana draytonii 322" ; Times: 3
+	Query: "specificepithet:ater genus:sauromalus county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Deirochelys reticularia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 112 (out of 1023 download events in this period)
+Total number of records downloaded: 71319
+Number of different countries: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 70
+	Country: Vietnam ; Times: 2
+	Country: French Guiana ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 28
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 5
+	Date: 2020-02-28 ; Times: 11
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 6
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-24 ; Times: 5
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-06 ; Times: 5
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:woodhousii family:bufonidae county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Bolitoglossa" ; Times: 1
+	Query: "Uta nolascensis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "typhlops dominicanus" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "Uta palmeri" ; Times: 1
+	Query: "class:Amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Rana maculata" ; Times: 1
+	Query: "Urosaurus nigricaudus" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Taricha" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "echis coloratus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 7
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "Uta tumidarostra" ; Times: 1
+	Query: "genus:Rana county:&#34;Mariposa&#34;" ; Times: 1
+	Query: "Xantusia gracilis" ; Times: 1
+	Query: "Urosaurus lahtelai" ; Times: 1
+	Query: "Xantusia arizonae" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Urosaurus auriculatus" ; Times: 1
+	Query: "Xenosaurus newmanorum" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "Varanus salvator" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "organ pipe class:Reptilia county:&#34;pima&#34; year &gt;= 1980" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "genus:Rana locality:Yosemite" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cricosaura typica" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Geochelone (Galapagos OR Ecuador)" ; Times: 1
+	Query: "xenopus tropicalis" ; Times: 2
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "louisiana" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Manolepis putnami" ; Times: 3
+	Query: "Uta lowei" ; Times: 1
+	Query: "class:Amphibia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Urosaurus clarionensis" ; Times: 1
+	Query: "FMNH Plethodon" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xantusia gilberti" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "guyana" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 1
+	Query: "Xantusia wigginsi" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Uta encantadae" ; Times: 1
+	Query: "Liophis juliae" ; Times: 1
+	Query: "specificepithet:palarostris genus:chionactis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:yavapaiensis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "Actinemys pallida" ; Times: 1
+	Query: "Anolis cybotes Dominican Republic" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+
+
+End of report.
