@@ -1,0 +1,591 @@
+Report for Institution Code SDNHM, Resource sdnhm_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1073
+Number of records retrieved in searches: 17088
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 939
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 70
+	Country: Unknown ; Times: 3
+	Country: Philippines ; Times: 6
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: Australia ; Times: 12
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Ireland ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 14
+	Date: 2020-07-08 ; Times: 16
+	Date: 2020-07-21 ; Times: 38
+	Date: 2020-07-20 ; Times: 23
+	Date: 2020-07-27 ; Times: 11
+	Date: 2020-07-26 ; Times: 7
+	Date: 2020-07-25 ; Times: 14
+	Date: 2020-07-22 ; Times: 59
+	Date: 2020-07-01 ; Times: 12
+	Date: 2020-07-03 ; Times: 11
+	Date: 2020-07-02 ; Times: 46
+	Date: 2020-07-05 ; Times: 4
+	Date: 2020-07-04 ; Times: 11
+	Date: 2020-07-07 ; Times: 16
+	Date: 2020-07-06 ; Times: 25
+	Date: 2020-07-24 ; Times: 21
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-29 ; Times: 79
+	Date: 2020-07-19 ; Times: 36
+	Date: 2020-07-12 ; Times: 3
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 11
+	Date: 2020-07-11 ; Times: 14
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-31 ; Times: 429
+	Date: 2020-07-14 ; Times: 7
+	Date: 2020-07-17 ; Times: 28
+	Date: 2020-07-15 ; Times: 7
+	Date: 2020-07-28 ; Times: 18
+	Date: 2020-07-30 ; Times: 103
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 2
+	Query: "specificepithet:enyo genus:Crotalus" ; Times: 1
+	Query: "class:Reptilia locality:Lebec county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "crotalus tigris mexico" ; Times: 1
+	Query: "Aspidoscelis inornata" ; Times: 2
+	Query: "sceloporus licki" ; Times: 8
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1901 year &lt;= 1930" ; Times: 2
+	Query: "Conopsis lineata" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "genus:charina county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:Atratus genus:Thamnophis county:&#34;Monterey&#34;" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 4
+	Query: "sistrurus miliarius stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Caliente county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Colubridae county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "(Clonophis)" ; Times: 1
+	Query: "coleonyx county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "genus:Crotalus county:&#34;fresno&#34;" ; Times: 1
+	Query: "Crotalus catalinensis" ; Times: 1
+	Query: "willardi arizona" ; Times: 1
+	Query: "genus:Dipsosaurus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 4
+	Query: "Eurycea guttolineata" ; Times: 3
+	Query: "class:Reptilia locality:Arvin county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Diadophis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "institutioncode:SDNHM basisofrecord:PreservedSpecimen distance(location,geopoint(33.488758677974594,-116.42021548307454))&lt;178298.4904702721" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "arizona elegans county:&#34;San Bernardino&#34; collectioncode:Herps" ; Times: 1
+	Query: "country:Ecuador scientificname:Gastrotheca riobambae " ; Times: 1
+	Query: "Chironius scurrulus" ; Times: 1
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "13364" ; Times: 1
+	Query: "mt. baldy county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "class:Reptilia locality:Bena county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "thamnophis sirtalis county:&#34;santa clara&#34;" ; Times: 1
+	Query: "genus:bufo institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:23678 institutioncode:SDNHM" ; Times: 3
+	Query: "catalognumber:66297 institutioncode:SDNHM" ; Times: 3
+	Query: "genus:Laticauda country:&#34;Philippines&#34;" ; Times: 6
+	Query: "mt baldy county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:californicus" ; Times: 4
+	Query: "phimophis guianensis" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1946 year &lt;= 1947" ; Times: 2
+	Query: "catalognumber:41071 institutioncode:SDNHM" ; Times: 2
+	Query: "catalognumber:16925 institutioncode:SDNHM" ; Times: 2
+	Query: "apple" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "catalognumber:62327 institutioncode:SDNHM" ; Times: 3
+	Query: "specificepithet:hernandesi genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "institutioncode:SDNHM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "sistrurus ravus" ; Times: 1
+	Query: "specificepithet:californicus genus:Anaxyrus" ; Times: 1
+	Query: "lampropholis delicata bpbm" ; Times: 1
+	Query: "san Gabriel river county:&#34;Los Angeles&#34; collectioncode:Herps AND (NOT batrachoseps NOT sceloporus)" ; Times: 3
+	Query: "Los Angeles Zoo" ; Times: 1
+	Query: "class:Reptilia locality:Bissell county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:reptilia distance(location,geopoint(37.66057780217779,-103.55028374782839))&lt;100000" ; Times: 1
+	Query: "genus:Phyllorhynchus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Batrachoseps gregarius" ; Times: 1
+	Query: "coluber county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 4
+	Query: "genus:phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 5
+	Query: "genus:Aspidoscelis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "xantusia arizonae" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 2
+	Query: "Crotalus aquilus Mexico" ; Times: 1
+	Query: "Batrachoseps luciae" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;100000" ; Times: 2
+	Query: "diehl" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "Quadrangulare Arizona" ; Times: 3
+	Query: "28567" ; Times: 1
+	Query: "crotalus willardi arizona" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "genus:coluber class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 5
+	Query: "42543" ; Times: 1
+	Query: "genus:Anolis locality:Santo Domingo stateprovince:&#34;Distrito Nacional&#34; country:&#34;Dominican Republic&#34; year &gt;= 1900 year" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;Box elder&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.60551603835981,-103.55341174182423))&lt;100000" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 4
+	Query: "KU 8646" ; Times: 1
+	Query: "Bothrops atrox peru" ; Times: 1
+	Query: "catalognumber:62325 institutioncode:SDNHM" ; Times: 4
+	Query: "specificepithet:henshawi county:&#34;imperial&#34;" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 3
+	Query: "21099" ; Times: 1
+	Query: "Plethodon chlorobryonis" ; Times: 3
+	Query: "class:reptilia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus" ; Times: 114
+	Query: "Hydrophis platurus" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;ventura&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2007 year &lt;= 2010" ; Times: 1
+	Query: "class:Reptilia locality:Rowen county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Crotalus ruber Palm springs" ; Times: 1
+	Query: "locality:grande stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "specificepithet:californiense genus:ambystoma county:&#34;santa clara&#34;" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "catalognumber:45648 institutioncode:SDNHM" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 2
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "conopsis lineata" ; Times: 1
+	Query: "catalognumber:23679 institutioncode:SDNHM" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "genus:Anolis locality:Santo Domingo stateprovince:&#34;Distrito Nacional&#34; country:&#34;Dominican Republic&#34; year &gt;= 1924 year" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Kern&#34;" ; Times: 1
+	Query: "thamnophis tulare MVZ" ; Times: 1
+	Query: "genus:Coleonyx class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "Crocodylus acutus 2006" ; Times: 2
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "Crocodylus acutus 2002" ; Times: 2
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "class:Reptilia locality:Rich county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "ophisaurus attenuatus" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "genus:leiocephalus country:&#34;cuba&#34;" ; Times: 3
+	Query: "Sceloporus licki" ; Times: 5
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "crotalus molossus" ; Times: 4
+	Query: "40514" ; Times: 2
+	Query: "genus:gambelia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "specificepithet:lateralis class:reptilia stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:draytonii genus:rana county:&#34;santa clara&#34;" ; Times: 1
+	Query: "specificepithet:boreas county:&#34;Fresno&#34;" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "class:Reptilia locality:Monolith county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Eurycea bislineata" ; Times: 2
+	Query: "Crotaphytus Kino" ; Times: 1
+	Query: "genus:Anniella county:&#34;Merced&#34;" ; Times: 3
+	Query: "Bolitoglossa subpalmata" ; Times: 5
+	Query: "specificepithet:Sirtalis genus:Thamnophis county:&#34;San Mateo&#34;" ; Times: 2
+	Query: "Desmognathus monticola" ; Times: 4
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 3
+	Query: "order:Squamata stateprovince:&#34;Manicaland&#34;" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "family:Anguidae county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 3
+	Query: "coleonyx elegans mexico" ; Times: 1
+	Query: "class:reptilia locality:Mono Hot county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "crotalus willardi" ; Times: 3
+	Query: "catalognumber:23104 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:regius class:amphibia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sistrurus stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Swaziland&#34;" ; Times: 1
+	Query: "specificepithet:californiae class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;shasta&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 2000" ; Times: 2
+	Query: "Eurycea multiplicata" ; Times: 3
+	Query: "Batrachoseps pacificus" ; Times: 7
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;kern&#34;" ; Times: 1
+	Query: "Leptodeira splendida" ; Times: 1
+	Query: "San Bernardino umbratica" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "specificepithet:neotesselata" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "Hemet crotalus" ; Times: 1
+	Query: "Crotalus scutulatus CHIHUAHUA" ; Times: 1
+	Query: "Lepidochelys olivacea mappable:1" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Anaxyrus hemiophrys" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;mono&#34;" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus" ; Times: 114
+	Query: "genus:pituophis class:reptilia county:&#34;fresno&#34;" ; Times: 2
+	Query: "micrurus psyches" ; Times: 1
+	Query: "genus:coluber hastypestatus:1" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 3
+	Query: "specificepithet:lateralis county:&#34;fresno&#34;" ; Times: 1
+	Query: "catalognumber:23691 institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:luetkenii family:bufonidae" ; Times: 1
+	Query: "specificepithet:marmorata class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "catalognumber:45644 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:Elegans county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "KU 2075" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 2
+	Query: "genus:Sonora institutioncode:SDNHM" ; Times: 4
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1948 year &lt;= 1949" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mono&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "crotalus willardi willardi arizona" ; Times: 1
+	Query: "emydoidea" ; Times: 2
+	Query: "country:&#34;mexico&#34; institutioncode:SDNHM" ; Times: 2
+	Query: "40497" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1921 year &lt;= 1940" ; Times: 2
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "anolis valencienni" ; Times: 2
+	Query: "lytle county:&#34;San Bernardino&#34; collectioncode:Herps" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;fresno&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona county:&#34;Inyo&#34;" ; Times: 3
+	Query: "specificepithet:stephensi county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Wheeler Ridge county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "genus:Rhinocheilus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "family:bufonidae institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:elegans class:reptilia county:&#34;fresno&#34;" ; Times: 1
+	Query: "genus:Coluber county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "huachuca crotalus pricei" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 5
+	Query: "class:Reptilia locality:Marcel county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:27147 institutioncode:SDNHM" ; Times: 2
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "specificepithet:marmorata county:&#34;Fresno&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2001 year &lt;= 2005" ; Times: 1
+	Query: "Plethodon cylindraceus" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "class:Reptilia locality:Boron county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Xantusia vigilis Catalina" ; Times: 1
+	Query: "class:Reptilia locality:Grapevine county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Riverside county charina bottae" ; Times: 1
+	Query: "Crotalus stephensi mono" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 3
+	Query: "Aneides aeneus" ; Times: 11
+	Query: "Crotalus BYU" ; Times: 1
+	Query: "catalognumber:23457 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:boreas county:&#34;fresno&#34;" ; Times: 1
+	Query: "catalognumber:62326 institutioncode:SDNHM" ; Times: 2
+	Query: "13222" ; Times: 1
+	Query: "Crocodylus acutus 2018" ; Times: 2
+	Query: "Clonophis kirtlandii" ; Times: 7
+	Query: "70414" ; Times: 1
+	Query: "specificepithet:lateralis class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "catalognumber:62263 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:rana county:&#34;santa clara&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Sphaerodactylus locality:Cocos" ; Times: 1
+	Query: "specificepithet:elegantulus genus:Sphaerodactylus" ; Times: 114
+	Query: "hemidactylus mabouia mappable:1" ; Times: 1
+	Query: "specificepithet:lateralis class:reptilia stateprovince:&#34;California&#34; year &gt;= 1901 year &lt;= 1950" ; Times: 4
+	Query: "miliarius arkansas" ; Times: 2
+	Query: "Los Angeles (lichanura)" ; Times: 1
+	Query: "class:Reptilia locality:Ilmon county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2004 year &lt;= 2004" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 2
+	Query: "lachesis muta" ; Times: 1
+	Query: "genus:Gopherus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:YEPOMERA" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 4
+	Query: "specificepithet:sirtalis county:&#34;San luis obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &lt;= 1910" ; Times: 1
+	Query: "corallus" ; Times: 1
+	Query: "Bolitoglossa carri" ; Times: 5
+	Query: "catalognumber:62324 institutioncode:SDNHM" ; Times: 3
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 3
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "san Gabriel river county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "catalognumber:44284 institutioncode:SDNHM" ; Times: 2
+	Query: "13459" ; Times: 1
+	Query: "genus:charina county:&#34;tuolumne&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "SDSNH" ; Times: 2
+	Query: "genus:pituophis class:reptilia county:&#34;Fresno&#34;" ; Times: 2
+	Query: "order:Anura locality:Wilcox stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Aspidoscelis county:&#34;Teller&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 2
+	Query: "crotalus lepidus lepidus" ; Times: 2
+	Query: "Batrachoseps nigriventris" ; Times: 2
+	Query: "UTA R-7072" ; Times: 2
+	Query: "UTA A 12957" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 2
+	Query: "genus:Coleonyx class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 2
+	Query: "23630" ; Times: 1
+	Query: "class:Reptilia locality:Fleta county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "phrynosoma shasta county" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 4
+	Query: "(crotalus pricei)" ; Times: 1
+	Query: "specificepithet:goniorhynchus genus:Sphaerodactylus" ; Times: 62
+	Query: "genus:Crotalus county:&#34;Esmeralda&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:zonata county:&#34;fresno&#34;" ; Times: 10
+	Query: "Anolis grahami preparations:skeleton" ; Times: 1
+	Query: "MSB Lithobates pipiens" ; Times: 1
+	Query: "Batrachoseps major" ; Times: 4
+	Query: "specificepithet:taeniatus class:reptilia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 1
+	Query: "7336 spea" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "specificepithet:draytonii genus:rana county:&#34;san benito&#34;" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 2
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "claremont county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:45647 institutioncode:SDNHM" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 5
+	Query: "specificepithet:poinsettii genus:Sceloporus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "rodent" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "genus:Arizona class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Crotalus Cedros" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:57439 institutioncode:SDNHM" ; Times: 2
+	Query: "Riverside county charina" ; Times: 1
+	Query: "sdnhm lucidus" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "genus:&#34;Pseudemys&#34; county:&#34;Mobile&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "genus:phrynosoma class:reptilia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "Crotalus Palm springs" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 2
+	Query: "specificepithet:Atratus county:&#34;Santa Cruz&#34;" ; Times: 1
+	Query: "specificepithet:Atratus genus:Thamnophis county:&#34;San Mateo&#34;" ; Times: 2
+	Query: "crotalus cedros" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 2001 year &lt;= 2020" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "catalognumber:45645 institutioncode:SDNHM" ; Times: 4
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 4
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "UTA 6086" ; Times: 1
+	Query: "catalognumber:45646 institutioncode:SDNHM" ; Times: 1
+	Query: "order:Caudata county:&#34;Inyo&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Bealville county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Trimorphodon tau" ; Times: 1
+	Query: "agkistrodon county:&#34;allegheny&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "genus:Incilius institutioncode:SDNHM" ; Times: 2
+	Query: "class:Reptilia locality:Rosamond county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Plethodon chattahoochee" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:charina county:&#34;mono&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;siskiyou&#34;" ; Times: 2
+	Query: "genus:lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:Heterodon county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "genus:Coluber county:&#34;fresno&#34;" ; Times: 1
+	Query: "Batrachoseps regius" ; Times: 1
+	Query: "KU 21629" ; Times: 2
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "lichanura county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "MSB Lithobates pipiens New Mexico" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "pseudacris sierra" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "catalognumber:61159 institutioncode:SDNHM" ; Times: 2
+	Query: "glendora county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "Micrurus browni" ; Times: 1
+	Query: "specificepithet:lateralis class:reptilia county:&#34;fresno&#34;" ; Times: 2
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "Lithobates pipiens california" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "46505" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Chelonia mydas mappable:1" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "Lampropeltis splendida" ; Times: 2
+	Query: "27947" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1950 year &lt;= 1960" ; Times: 2
+	Query: "arizona elegans county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "san dimas county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 2
+	Query: "heterodon arizona" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 940 download events in this period)
+Total number of records downloaded: 52010
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 54
+	Country: Guatemala ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 6
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-04 ; Times: 7
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-29 ; Times: 3
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 10
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xantusia vigilis Catalina" ; Times: 1
+	Query: "specificepithet:coccifer family:bufonidae" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Trimorphodon tau" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "class:Amphibia &#34;Osteopilus dominicensis&#34;" ; Times: 1
+	Query: "specificepithet:californiense genus:ambystoma county:&#34;santa clara&#34;" ; Times: 1
+	Query: "specificepithet:draytonii genus:rana county:&#34;santa clara&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:hernandesi genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "Chironius scurrulus" ; Times: 2
+	Query: "Lamprophiidae" ; Times: 1
+	Query: "specificepithet:californicus genus:Anaxyrus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Aspidoscelis costata" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "specificepithet:enyo genus:Crotalus" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:draytonii genus:rana county:&#34;san benito&#34;" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2001 year &lt;= 2020" ; Times: 2
+	Query: "conopsis lineata" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:bufonidae institutioncode:SDNHM" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; institutioncode:SDNHM" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1890 year &lt;= 1920" ; Times: 1
+	Query: "genus:Crotalus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;cundinamarca&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "specificepithet:luetkenii family:bufonidae" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "genus:Heterodon county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:californicus" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Aspidoscelis deppii" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 1950" ; Times: 1
+	Query: "Aspidoscelis guttatus" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:Incilius institutioncode:SDNHM" ; Times: 1
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "class:Amphibia country:&#34;honduras&#34;" ; Times: 1
+	Query: "specificepithet:mazatlanensis family:bufonidae" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 2000" ; Times: 1
+
+
+End of report.
