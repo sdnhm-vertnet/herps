@@ -1,0 +1,387 @@
+Report for Institution Code SDNHM, Resource sdnhm_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 370
+Number of records retrieved in searches: 3901
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Ireland ; Times: 4
+	Country: Unknown ; Times: 17
+	Country: France ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Turkey ; Times: 2
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 280
+	Country: Sweden ; Times: 11
+	Country: Mexico ; Times: 20
+	Country: United Arab Emirates ; Times: 6
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Fiji ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 20
+	Date: 2020-09-08 ; Times: 8
+	Date: 2020-09-03 ; Times: 5
+	Date: 2020-09-02 ; Times: 6
+	Date: 2020-09-01 ; Times: 9
+	Date: 2020-09-07 ; Times: 16
+	Date: 2020-09-06 ; Times: 8
+	Date: 2020-09-05 ; Times: 4
+	Date: 2020-09-04 ; Times: 9
+	Date: 2020-09-21 ; Times: 19
+	Date: 2020-09-20 ; Times: 9
+	Date: 2020-09-23 ; Times: 8
+	Date: 2020-09-22 ; Times: 17
+	Date: 2020-09-25 ; Times: 12
+	Date: 2020-09-24 ; Times: 7
+	Date: 2020-09-27 ; Times: 5
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 30
+	Date: 2020-09-28 ; Times: 12
+	Date: 2020-09-16 ; Times: 5
+	Date: 2020-09-14 ; Times: 18
+	Date: 2020-09-15 ; Times: 14
+	Date: 2020-09-30 ; Times: 7
+	Date: 2020-09-17 ; Times: 9
+	Date: 2020-09-10 ; Times: 17
+	Date: 2020-09-11 ; Times: 14
+	Date: 2020-09-12 ; Times: 4
+	Date: 2020-09-13 ; Times: 4
+	Date: 2020-09-18 ; Times: 44
+	Date: 2020-09-19 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Microlophus occipitalis " ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1976" ; Times: 1
+	Query: "emydoidea" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hydrophis platurus" ; Times: 1
+	Query: "32708" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "oxybelis fulgidus" ; Times: 1
+	Query: "genus:rana locality:South America county:&#34;Fresno&#34;" ; Times: 1
+	Query: "Pelican Bay Santa Cruz Island" ; Times: 1
+	Query: "coyote canyon institutioncode:SDNHM" ; Times: 1
+	Query: "tantilla planiceps" ; Times: 7
+	Query: "Pantherophis guttatus" ; Times: 3
+	Query: "specificepithet:partidus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:grinnelli genus:anniella stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Pepin&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Banner&#34; stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 6
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 3
+	Query: "specificepithet:glaucus genus:Sphaerodactylus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "genus:Crotaphytus county:&#34;riverside&#34;" ; Times: 2
+	Query: "bogertophis" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:SDNHM" ; Times: 2
+	Query: "lampropeltis baja california" ; Times: 2
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:regilla county:&#34;inyo&#34;" ; Times: 3
+	Query: "genus:Emoia family:Scincidae stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1901 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:SDNHM" ; Times: 2
+	Query: "Keen" ; Times: 2
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1986 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1956 year &lt;= 1960" ; Times: 1
+	Query: "genus:anniella county:&#34;kern&#34;" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1951 year &lt;= 1975" ; Times: 2
+	Query: "specificepithet:pulchra county:&#34;kern&#34;" ; Times: 2
+	Query: "genus:gambelia county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:thamnophis county:&#34;Inyo&#34;" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "genus:coleonyx county:&#34;kern&#34;" ; Times: 1
+	Query: "specificepithet:regius genus:batrachoseps" ; Times: 4
+	Query: "specificepithet:pulchra county:&#34;tulare&#34;" ; Times: 2
+	Query: "catalognumber:38 institutioncode:SDNHM" ; Times: 2
+	Query: "Crotalus willardi sonora" ; Times: 2
+	Query: "specificepithet:davisi genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1946 year &lt;= 1950" ; Times: 1
+	Query: "31504" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 4
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1931 year &lt;= 1945" ; Times: 2
+	Query: "genus:crotaphytus county:&#34;mono&#34;" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "specificepithet:hyperythra stateprovince:&#34;california&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 5
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "genus:Virginia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 5
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "rana onca" ; Times: 1
+	Query: "balleza" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "rhabdophis philippines" ; Times: 2
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "genus:Sphaerodactylus (Mexico OR Honduras OR Belize OR panama OR Costa Rica OR Colombia OR Guatemala)" ; Times: 1
+	Query: "Crotalus pricei arizona" ; Times: 3
+	Query: "Salvadora mexicana México" ; Times: 1
+	Query: "Hypsiglena ochrorhyncha county:&#34;san diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:10687 institutioncode:SDNHM" ; Times: 4
+	Query: "specificepithet:marmorata genus:Actinemys" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Pierce&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nerodia rhombifer rhombifer" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1976 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "KU 28196" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 3
+	Query: "Anniella alex" ; Times: 1
+	Query: "genus:callisaurus stateprovince:&#34;california&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "genus:pelochelys" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "specificepithet:stebbinsi genus:anniella year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "recordedby:Matthews" ; Times: 1
+	Query: "UCM Pseudacris" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "specificepithet:unctus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "16952" ; Times: 1
+	Query: "genus:ambystoma county:&#34;Siskiyou&#34;" ; Times: 2
+	Query: "specificepithet:grinnelli genus:Anniella" ; Times: 3
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1951 year &lt;= 1955" ; Times: 1
+	Query: "75208" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon county:&#34;Jasper&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "specificepithet:wirshingi genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "cROTALUS SIMUS" ; Times: 1
+	Query: "crotalus willardi arizona cochise" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "actinemys marmorata" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Buffalo&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "specificepithet:barringtonensis genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "11923" ; Times: 1
+	Query: "16649" ; Times: 1
+	Query: "recordedby:Clausen" ; Times: 1
+	Query: "genus:Gambelia country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "genus:Crotaphytus locality:Death county:&#34;Inyo&#34;" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 6
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;MIssouri&#34;" ; Times: 1
+	Query: "specificepithet:stebbinsi genus:anniella county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;fresno&#34;" ; Times: 1
+	Query: "catalognumber:35295 institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:draconoides county:&#34;kern&#34;" ; Times: 4
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "pituophis ruthveni" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "specificepithet:americana genus:Tarentola institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:gerrhopygus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "SDNHM 28819" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "genus:gambelia county:&#34;Riverside&#34;" ; Times: 2
+	Query: "genus:Coleonyx county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Janos" ; Times: 2
+	Query: "heterodon nasicus" ; Times: 2
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "Bocoyna chihuahua" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "aspidoscelis tigris yavapai" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:SDNHM" ; Times: 2
+	Query: "Rhadinaea hesperia" ; Times: 1
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "mappable:1 scientificname:Ophiodes striatus" ; Times: 4
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;imperial&#34;" ; Times: 4
+	Query: "janos" ; Times: 1
+	Query: "Hypsiglena ochrorhyncha stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "gbifdatasetid:84b4d6e4-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:dunni genus:Plethodon" ; Times: 1
+	Query: "genus:phyllodactylus county:&#34;imperial&#34;" ; Times: 1
+	Query: "Taricha sierrae" ; Times: 2
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:hyperythra year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 1
+	Query: "specificepithet:californicus genus:anaxyrus county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon county:&#34;Porter&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; year &gt;= 1945 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; year &gt;= 1900 year &lt;= 1945 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anaxyrus hemiophrys" ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:tigris stateprovince:&#34;california&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 5
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "tigris yavapai" ; Times: 2
+	Query: "family:Kinosternidae order:Testudines country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:bugastrolepis genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Sphaerodactylus (Mexico OR Honduras OR Belize OR panama OR Costa Rica OR Colombia OR Guatemala) AND (NOT cuba)" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1901 year &lt;= 1940" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:nocticolus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "catalognumber:37480 institutioncode:SDNHM" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 4
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Cherry&#34; stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Ventura&#34;" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana county:&#34;Fresno&#34;" ; Times: 2
+	Query: "Necturus beyeri" ; Times: 2
+	Query: "crotalus willardi arizona" ; Times: 6
+	Query: "scaphiodontophis annulatus" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "CROTALUS TRISERIATUS" ; Times: 4
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:cerberus order:Squamata" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "catalognumber:8867 institutioncode:SDNHM" ; Times: 1
+	Query: "catalognumber:25233 institutioncode:SDNHM" ; Times: 2
+	Query: "bocoyna chihuahua" ; Times: 4
+	Query: "taricha sierrae" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 2
+	Query: "genus:Gyalopion county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Elgaria paucicarinata" ; Times: 2
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1981 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:tigris county:&#34;mono&#34;" ; Times: 1
+	Query: "specificepithet:draytonii genus:Rana county:&#34;San Diego&#34; year &gt;= 1965 year &lt;= 2000" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34;" ; Times: 3
+	Query: "genus:gambelia county:&#34;Imperial&#34;" ; Times: 2
+	Query: "San Diego specificepithet:draytonii genus:Rana institutioncode:SDNHM" ; Times: 2
+	Query: "genus:Phyllorhynchus locality:Death county:&#34;Inyo&#34;" ; Times: 1
+	Query: "county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "38572" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "sistrurus wisconsin" ; Times: 3
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:SDNHM" ; Times: 2
+	Query: "specificepithet:cadaverina county:&#34;San Bernardino&#34; year &gt;= 1976 year &lt;= 2020" ; Times: 1
+	Query: "stateprovince:&#34;new york&#34; recordedby:clausen" ; Times: 2
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1901 year &lt;= 1930" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "catalognumber:34836 institutioncode:SDNHM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 976 download events in this period)
+Total number of records downloaded: 5115
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Fiji ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 33
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 6
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 5
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-27 ; Times: 4
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "scaphiodontophis annulatus" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Salvadora mexicana México" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Rhadinaea hesperia" ; Times: 1
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 1
+	Query: "genus:Emoia family:Scincidae stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "xenodon rabdocephalus" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+
+
+End of report.
